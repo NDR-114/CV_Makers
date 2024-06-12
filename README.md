@@ -3,7 +3,7 @@
 A highly motivated individual seeking a role in the software industry, where I can leverage my extensive background in IT (in a niche dental environment)
 and also my scientific background to identify intricate and uncommon issues.
 
-A recent Makers Academy DfE bootcamp graduate skilled in Python, TDD, OOP, and Agile. An active learner with Azure Fundamentals AZ‐900, AI/LLM, and cybersecurity certifications, continuously upskilling.
+A recent Makers Academy DfE bootcamp graduate skilled in Python, TDD, OOP, and Agile. An active learner with Azure Fundamentals AZ‐900, AI/LLM, and cybersecurity certifications, continuously upskilling (currently learning Generative AI with Large Language Models).
 
 Passionate problem solver who simplified complex operational problems at dentalessence. Progressed from providing efficient IT consultancy and mastering proprietary dental tech, to heading operations and spearheading transformative company‐wide projects. Adept at breaking down large, distributed problems to provide exceptional customer experiences; through innovative thinking.
 
